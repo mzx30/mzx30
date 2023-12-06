@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MZ/X
+- 👋 Hi, I’m MZ/X.
 - 👀 I’m interested in many things.
 - 🌱 I’m currently learning webdev and coding.
 - 💞️ I’m looking to collaborate on webdev and coding.
